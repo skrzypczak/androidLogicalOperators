@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/alo/alo.iml" filepath="$PROJECT_DIR$/alo/alo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidLogicalOperators.iml" filepath="$PROJECT_DIR$/androidLogicalOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
